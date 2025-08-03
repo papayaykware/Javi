@@ -1,3 +1,5 @@
+![METFI Banner](banner.png)
+
 # 📘 METFI Nodo 0 — Dossier Técnico Experimental
 
 **Versión:** 1.0  
